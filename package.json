@@ -3,6 +3,10 @@
   "version": "1.1.0",
   "description": "How higher order components in react works!",
   "main": "HOC.jsx",
+  "repository": {
+    "url": "https://https://github.com/NikhilAndola/higher-order-component",
+    "type": "git"
+  },
   "author": "nikhil",
   "license": "NL"
 }
